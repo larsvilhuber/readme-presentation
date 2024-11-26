@@ -9,8 +9,7 @@ format:
     transition: slide
     theme: [night, style.css]
     self_contained: false
-    logo: logo.png
-    footer: ""
+    footer: "<img src='logo-grch.png' style='height: 2em; margin-right: 1em;'><img src='logo-cornell.png' style='height: 2em;'>"
     reveal_options:
         slideNumber: true
         previewLinks: false

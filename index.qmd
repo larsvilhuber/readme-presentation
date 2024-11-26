@@ -1,0 +1,32 @@
+---
+title: "Writing a Clear README file"
+author: 
+  - "Lars Vilhuber"
+  - "Marie Connolly"
+date: 26 Nov 2024
+title-slide-attributes:
+  data-background-image: "images/lake-winter.jpg" 
+  data-background-size: "auto 50%"
+  data-background-position: "bottom"
+---
+
+
+
+
+```{r, child=c(here::here('01-goal.md'))}
+```
+
+
+```{r, child=c(here::here('02-readme-explained.md'))}
+```
+
+
+```{r, child=c(here::here('03-go.md'))}
+```
+
+
+```{r, child=c(here::here('99-links.md'))}
+```
+# Thank you {background-image="images/lake-autumn.jpg" background-size="contain" background-position="bottom"}
+
+
