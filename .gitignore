@@ -5,3 +5,5 @@ images/
 .RData
 *.Rout
 ReadMe_Connolly*
+index_files
+index.html
