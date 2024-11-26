@@ -1,0 +1,7 @@
+/.quarto/
+.Rproj.user
+renv/
+_extensions/
+images/
+.RData
+*.Rout
