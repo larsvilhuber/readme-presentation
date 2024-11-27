@@ -68,28 +68,60 @@
 
 ## Using the Template README
 
+::: {.columns}
+
+::::  {.column}
+
 You can download the Word, LaTeX, or Markdown version of the README with lots of examples.
+::::
+
+:::: {.column}
 
 ```{=html}
 <iframe width="780" height="500" src="https://social-science-data-editors.github.io/template_README/" title="README landing page"></iframe>
+
 ```
+::::
+
+:::
 
 ## Online Generator
 
+::: {.columns}
+
+:::: {.column}
+
 You can also try Miklós Koren's online generator <https://www.templatereadme.org/>.
 
+::::
+
+:::: {.column}
 
 ```{=html}
 <iframe width="780" height="500" src="https://www.templatereadme.org/" title="README generator"></iframe>
 ```
 
+::::
+
+:::
+
 # An Example
+
+:::{.columns}
+
+:::: {.column}
 
 > Lavecchia, Adam, 2023, “Replication Data and Code for: Family-Level Responses to the Introduction of Tax-Free Savings Accounts”, https://doi.org/10.5683/SP3/M6HLUF, Borealis, V1.
 
+::::
+
+:::: {.column}
 
 ![](images/lavecchia-readme.png)
 
+::::
+
+:::
 
 ## Overview
 
