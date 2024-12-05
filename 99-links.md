@@ -1,4 +1,4 @@
-# Links
+# Resources
 
 
 ## README
@@ -10,3 +10,5 @@ You can download the Word, LaTeX, or Markdown version of the README with lots of
 ## Other guidance
 
 - [Presentation on "Self Checking Reproducibility"](https://larsvilhuber.github.io/self-checking-reproducibility/presentation/) and its associated [website](https://larsvilhuber.github.io/self-checking-reproducibility/)
+
+- Guidance for citations: <https://social-science-data-editors.github.io/guidance/addtl-data-citation-guidance.html>
