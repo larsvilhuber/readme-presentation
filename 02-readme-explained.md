@@ -107,6 +107,10 @@ You can also try Miklós Koren's online generator <https://www.templatereadme.or
 
 ## An Example
 
+::: {.columns}
+
+:::: {.column}
+
 > Lavecchia, Adam, 2023, “Replication Data and Code for: Family-Level Responses to the Introduction of Tax-Free Savings Accounts”, https://doi.org/10.5683/SP3/M6HLUF, Borealis, V1.
 
 ::::
