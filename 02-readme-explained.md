@@ -228,14 +228,15 @@ Data sources translate into datasets. Ideally, the README lists them:
 
 ## Computational Requirements
 
-[![](images/readme-computational.png)](https://social-science-data-editors.github.io/template_README/#computational-requirements)
 
 
 ## Computational Requirements {.smaller}
 
-For simple replication packages, may appear to be trivial (a laptop and some common software)
+For simple replication packages, may appear to be trivial (a laptop and some common software).[^comp]
 
 What if requirement is **expensive commercial software** and **a super computer cluster**?
+
+[^comp]: <https://social-science-data-editors.github.io/template_README/#computational-requirements>
 
 
 ## Computational Requirements {.smaller}
@@ -379,13 +380,13 @@ Good example 2, French data: <https://www.casd.eu/en/source/all-employees-databa
 
 ::: {.column width=45%}
 
-![](images/casd-reference1.png)
+![](images/casd-references1.png)
 
 :::
 
 ::: {.column width=45%}
 
-![](images/casd-reference2.png)
+![](images/casd-references2.png)
 
 :::
 
