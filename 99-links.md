@@ -11,4 +11,6 @@ You can download the Word, LaTeX, or Markdown version of the README with lots of
 
 - [Presentation on "Self Checking Reproducibility"](https://larsvilhuber.github.io/self-checking-reproducibility/presentation/) and its associated [website](https://larsvilhuber.github.io/self-checking-reproducibility/)
 
+- Guidance when (some) data are confidential: <https://labordynamicsinstitute.github.io/reproducibility-confidential/>
+
 - Guidance for citations: <https://social-science-data-editors.github.io/guidance/addtl-data-citation-guidance.html>
