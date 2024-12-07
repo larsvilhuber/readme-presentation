@@ -21,10 +21,6 @@ title-slide-attributes:
 ```
 
 
-```{r, child=c(here::here('03-go.md'))}
-```
-
-
 ```{r, child=c(here::here('99-links.md'))}
 ```
 # Thank you {background-image="images/lake-autumn.jpg" background-size="contain" background-position="bottom"}
