@@ -53,9 +53,10 @@
 ::: {.columns}
 
 ::::  {.column}
-
+Archive:
 > Lars Vilhuber, Connolly, M., Koren, M., Llull, J., & Morrow, P. (2022). A template README for social science replication packages (v1.1). Social Science Data Editors. https://doi.org/10.5281/zenodo.7293838 
 
+Browsable: <https://social-science-data-editors.github.io/template_README/>
 ::::
 
 :::: {.column}
@@ -72,7 +73,7 @@
 
 ::::  {.column}
 
-You can download the Word, LaTeX, or Markdown version of the README with lots of examples.
+You can download the Word, LaTeX, or Markdown version of the [README](https://social-science-data-editors.github.io/template_README/) with lots of examples.
 ::::
 
 :::: {.column}
