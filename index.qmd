@@ -3,7 +3,7 @@ title: "Writing a Clear README file"
 author: 
   - "Lars Vilhuber"
   - "Marie Connolly"
-date: 3 January 2025
+date: 31 March 2025
 title-slide-attributes:
   data-background-image: "images/lake-winter.jpg" 
   data-background-size: "auto 50%"
