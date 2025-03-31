@@ -154,16 +154,17 @@ You can also try Miklós Koren's online generator <https://www.templatereadme.or
 It contains information about the **sources of data used in the replication package**, in addition to or instead of such detailed description in the manuscript. 
 
 - If information is provided as part of an appendix in the paper **with the same level of detail described here**, then the README can refer to that appendix.
+- In most economics journals, the README is part of a package together with the code, so a separate statement of where the **code** is located is **not necessary**.
 
 
-## Data and Code Availability Statement (DCAS) {.smaller}
+## Data Availability Statement  {.smaller}
 
 The information should describe **ALL** data used, regardless of whether they are provided as part of the replication archive or not, and regardless of size or scope!
 
 - Should describe the conditions under which (a) the **current authors** (b) *any future users* might access the data (which may differ)
 
 
-## Data and Code Availability Statement (DCAS) {.smaller}
+## Data Availability Statement   {.smaller}
 
 These may include 
 
@@ -173,7 +174,7 @@ These may include
 - monetary cost, or 
 - other qualifications.
 
-## Data and Code Availability Statement (when primary) {.smaller}
+## Data Availability Statement   (when primary) {.smaller}
 
 When the data were generated (by the authors) in the course of conducting (lab or field) **experiments**, or were collected as part of **surveys** run by the authors, then the description of the provenance should describe the data generating process, i.e., *survey or experimental procedures*
 
@@ -206,11 +207,11 @@ Less obvious: You were able to download the data from a website that did not req
 [^wvs]: [World Values Survey](https://www.worldvaluessurvey.org/wvs.jsp) data are available for download without a login, but you have to agree to terms of use that prohibit redistribution.
 
 
-## Data and Code Availability Statement (Example: restricted) 
+## Data Availability Statement   (Example: restricted) 
 
 ![](images/lavecchia-data1.png)
 
-## Data and Code Availability Statement (Example: public) 
+## Data Availability Statement  (Example: public) 
 
 ![](images/lavecchia-data2.png)
 
